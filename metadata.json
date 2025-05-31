@@ -1,0 +1,6 @@
+{
+  "name": "Mindful Reflections AI",
+  "description": "An AI-powered journaling companion that analyzes your markdown entries to provide emotional insights and suggest personalized check-in questions for deeper reflection. Journal data is processed locally and stored in your browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
